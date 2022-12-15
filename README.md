@@ -42,5 +42,5 @@ The Simple And Fast Email Bomber Bot In Telegram
 
 ## </> Source Code By [Rishmika Sandanu](t.me/ImRishmika)
 <br>
-## ⚡️ Powerd By [EmoBotDevolopers](t.me/EmoBotDevolopers)
+
 

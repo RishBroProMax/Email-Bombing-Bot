@@ -1,0 +1,5 @@
+os   
+pyrogram~
+TgCrypto
+psycopg2
+time

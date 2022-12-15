@@ -37,3 +37,10 @@ The Simple And Fast Email Bomber Bot In Telegram
    ```
    
 ## Please Host On VPS
+
+# Credits ❤️
+
+### </> Source Code By [Rishmika Sandanu](t.me/ImRishmika)
+<br>
+### ⚡️ Powerd By [EmoBotDevolopers](t.me/EmoBotDevolopers)
+

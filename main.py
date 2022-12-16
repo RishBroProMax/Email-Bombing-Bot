@@ -12,25 +12,7 @@ print ("\033[1;34m|########|  |##| |##| |##|    /########\       |##|     |##|  
 print ("\033[1;31m|##|_____   |##|      |##|   /##/    \##\    __|##|__   |##|_______   |__| |  | |\/|  |__| |__  |__|    \033[1;m")
 print ("\033[1;31m|########|  |##|      |##|  /##/      \##\  |########|  |##########| _|__| |__| |  | _|__| |__  |  \    \033[1;m")
 
-START = "I m Alive 💙"
 
-API_ID = '140XXX90'
-
-API_HASH = 'a46f7b439d0axxxxxxc450f754e9'
-
-BOT_TOKEN = '5867842414:xxxxxxxzRaWhWh6jnt_67NgVBat4J59XYU'
-
-app = Client(
-
-      "RishBro"
-
-      api_id=API_ID,
-
-      api_hash=API_HASH,
-
-      bot_token=BOT_TOKEN,
-
-)
 
 files = open('email.txt', 'r')
 bomb_emails = files.readlines()
@@ -43,11 +25,9 @@ message_relode = int(input("How many message you want to send:"))
 
 ers")]]))
 
-@app.on_message(filters.command("start"))
 
-async def start(bot, message):
 
-  await message.reply_photo("https://telegra.ph/file/c4ea3761bb73bab726334.jpg",caption=START,reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="</> ємσ вσт ∂єνσℓσρєʀѕ", url="t.me/EmoBotDevolopers")]]))
+
 
 num = 0
 for bomb_email in bomb_emails:
